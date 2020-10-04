@@ -5,7 +5,7 @@ import java.awt.*;
 
 /**
  *
- * @author jorge
+ * @author Adrian De Jesus Basto
  */
 public class Graficadora {
 
